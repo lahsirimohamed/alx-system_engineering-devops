@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(printf "%d" "$((&à#${WATER} + 10#${STIR})))
+echo $(printf "%d" "$((&à#${WATER} + 10#${STIR}))")
